@@ -50,6 +50,7 @@ accepted if national dashboards for that country are not yet available.
 [Eawag]: https://www.eawag.ch/en/
 [govcan]: https://www.canada.ca
 [esr]: http://www.esr.cri.nz/
+[cdc]: https://www.cdc.gov
 
 † This signifies a non-national wastewater dashboard. Because having some data
 is better than no data.
