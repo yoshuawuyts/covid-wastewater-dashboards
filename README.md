@@ -14,6 +14,7 @@ accepted if national dashboards for that country are not yet available.
 | ------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------- |
 | Austria       | [Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz][bsgpkg] | [Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz][bsgpkg] | [link][austria]                 |
 | Canada        | Unknown                                                                            | [Covid 19 Resources Canada](https://covid19resources.ca/about-us/)                 | [link][canada]                  |
+| Canada        | Various Provincial Sources                                                         | [Government of Canada](govcan)                                                    | [link][canada2]                  |
 | Denmark       | [Statens Serum Institut][SSI]                                                      | [Statens Serum Institut][SSI]                                                      | [link][denmark]                 |
 | Finland       | [Finnish Institute for Health and Welfare][THL]                                    | [Elisa Oinonen](https://www.linkedin.com/in/elisaoi/)                              | [link][finland]                 |
 | Germany       | [Bundes Ministerium fur Gesundheit][bmg]                                           | [Bundes Ministerium fur Gesundheits][bmg]                                          | [link][germany]                 |
@@ -29,6 +30,7 @@ accepted if national dashboards for that country are not yet available.
 [finland]: https://www.koronatilastot.fi/fi/jatevesi/
 [ireland]: https://www.hpsc.ie/a-z/nationalwastewatersurveillanceprogramme/2024wastewatersurveillanceprogrammereports/
 [canada]: https://covid19resources.ca/covid-hazard-index
+[canada2]: https://health-infobase.canada.ca/covid-19/wastewater/
 [netherlands]: https://coronadashboard.rijksoverheid.nl/landelijk/rioolwater
 [scotland]: https://scotland.shinyapps.io/phs-respiratory-covid-19/
 [switzerland]: https://sensors-eawag.ch/sars/geneve.html
@@ -41,6 +43,7 @@ accepted if national dashboards for that country are not yet available.
 [hpsc]: https://www.hpsc.ie
 [phs]: https://www.publichealthscotland.scot
 [Eawag]: https://www.eawag.ch/en/
+[govcan]: https://www.canada.ca
 
 † This signifies a non-national wastewater dashboard. Because having some data
 is better than no data.
